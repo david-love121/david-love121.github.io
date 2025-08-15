@@ -25,5 +25,12 @@ export const projects: Project[] = [
 		description: 'A tool for visualizing three-dimensional graphs and data structures.',
 		technologies: ['3D Graphics', 'Data Visualization', 'Graph Theory'],
 		githubUrl: 'https://github.com/david-love121/3D-graph-viewer'
+	},
+	{
+		title: 'AI Music Website',
+		description: 'A SvelteKit-based music player with synchronized visualizers and AI-powered features.',
+		technologies: ['SvelteKit', 'Audio Visualization', 'TailwindCSS', 'TypeScript'],
+		demoUrl: 'https://david-love121.github.io/ai-music-website/',
+		githubUrl: 'https://github.com/david-love121/ai-music-website'
 	}
 ];
